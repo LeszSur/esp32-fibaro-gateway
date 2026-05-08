@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/LeszSur/esp32-fibaro-gateway/releases/download/v1.0.1/firmware.bin
+https://leszsur.github.io/esp32-fibaro-gateway/firmware.bin
